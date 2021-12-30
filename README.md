@@ -1,2 +1,2 @@
 # Result
-<img src = "./snap/demo.gif" width = "40%"/>
+<img src = "./snap/demo.gif" width = "25%"/>
